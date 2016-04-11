@@ -1,0 +1,4 @@
+*.o
+testSort
+vs2015/
+
