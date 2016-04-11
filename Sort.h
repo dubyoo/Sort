@@ -4,7 +4,7 @@
 // 选择排序，不稳定，平均时间复杂度 O(n^2)
 ////////////////////////////////////////////////////////////////
 
-void slelct_sort(int * arr, int len)
+void select_sort(int * arr, int len)
 {
 	for (int i = 0; i < len - 1; i++)
 	{

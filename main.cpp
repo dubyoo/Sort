@@ -28,7 +28,7 @@ void print_arr(int * arr, int len = ARR_SIZE)
 
 void init()
 {
-	func_map['1'] = slelct_sort;
+	func_map['1'] = select_sort;
 	func_map['2'] = insert_sort;
 	func_map['3'] = bubble_sort;
 	func_map['4'] = quick_sort;
